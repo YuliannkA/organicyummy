@@ -1,0 +1,11 @@
+# basic options
+title: How about to Eat? ;)
+author: Yulia D
+email: yuliannka@gmail.com
+description: A wonderful site
+# twitter_username: jekyllrb
+github_username:  YuliannkA
+
+# Build settings
+markdown: kramdown
+theme: Modern-Blog
