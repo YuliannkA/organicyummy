@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Health
+title: Food
 ---
 
 conventional food can trigger some abnormalities in people's bodies and damage their health
