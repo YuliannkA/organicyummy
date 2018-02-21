@@ -16,6 +16,6 @@ As of now organic section is still at a small fraction of the total market out t
   
 
 
-## Other thoughts
+
 
 
