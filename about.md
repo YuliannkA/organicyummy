@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Project Proposal: **“ We are what we eat!”**
+_Project Proposal:_ ## **“ We are what we eat!”**
 
   Every day every person in whole world makes 3-5 decisions in regards of food choice and that’s just  for a single person. What happens when that person has a family? Number of required  meal decisions increases! Even for the family of four – for example a mother (statistically more involved and responsibilities driven) – she has to make food intake decisions in amount  10-15 per day!  The bigger the family, the bigger amount of preferences or conditions have to be taken into consideration. Let’s say different family members have some food sensitivities like allergy or intolerance, by the way the rates of which have skyrocketed over the past decade or two.
   
@@ -21,4 +21,4 @@ As a data driven person, with family responsibilities, I knew I had to break int
   
   Now, would really love to put all the knowledge in numbers and be strategically meaningful.
 
-## Let's take a look.
+# Let's take a look.
