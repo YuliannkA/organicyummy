@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Food production
+title: Food
 ---
 
 Organic food producers
