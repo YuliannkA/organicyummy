@@ -18,6 +18,6 @@ Lots of genetically modified products and just simply unnatural food components 
 
 <a href="http://tinypic.com?ref=jkahc9" target="_blank"><img src="http://i63.tinypic.com/jkahc9.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-## Other thoughts
+
 
 
