@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Proposed Project
+title: About
 ---
 
 This is an about page about this awesome site.
