@@ -1,10 +1,7 @@
----
-layout: page
-title: Ref
----
 
 
-# Welcome to my project page!
+
+#Welcome!
 
  Lots of aspects to go through:
  
