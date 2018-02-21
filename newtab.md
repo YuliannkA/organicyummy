@@ -11,6 +11,6 @@ and body will normilize on its own. for example a graph of weightloss by that su
 
 <a href="http://tinypic.com?ref=212igea" target="_blank"><img src="http://i66.tinypic.com/212igea.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 
-## Other thoughts
+
 
 
