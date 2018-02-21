@@ -23,3 +23,6 @@ As a data driven person, with family responsibilities, I knew I had to break int
   Now, would really love to put all the knowledge in numbers and be strategically meaningful.
 
  **Let's take a look.**
+
+
+<a href="http://tinypic.com?ref=rl9ox4" target="_blank"><img src="http://i66.tinypic.com/rl9ox4.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
